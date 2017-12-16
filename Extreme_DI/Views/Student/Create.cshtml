@@ -1,0 +1,44 @@
+﻿@model StudentModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Students</title>
+</head>
+<body>
+    <div style="margin-top: 20px;">
+        @using (Html.BeginForm("Create", "Student", FormMethod.Post))
+    {
+            <div class="form-group">
+                @Html.LabelFor(m => m.StudentID)<br />
+                @Html.EditorFor(m => m.StudentID)
+                @Html.ValidationMessageFor(m => m.Name)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Name)<br />
+                @Html.EditorFor(m => m.Name)
+                @Html.ValidationMessageFor(m => m.Name)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Surname)<br />
+                @Html.EditorFor(m => m.Surname)
+                @Html.ValidationMessageFor(m => m.Surname)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Course)<br />
+                @Html.EditorFor(m => m.Course)
+                @Html.ValidationMessageFor(m => m.Course)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Group)<br />
+                @Html.EditorFor(m => m.Group)
+                @Html.ValidationMessageFor(m => m.Group)
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save changes" class="btn btn-default" />
+            </div>
+    }
+    </div>
+</body>
+</html>

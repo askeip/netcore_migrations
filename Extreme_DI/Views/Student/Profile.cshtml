@@ -1,0 +1,20 @@
+﻿@model StudentModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+    <div>
+        Student's info:
+        ID: @Model.StudentID<br />
+        Name: @Model.Name<br />
+        Surname: @Model.Surname<br />
+        Course: @Model.Course<br />
+        Group: @Model.Group<br />
+        <a href="@Url.Action("Edit", "Student", new {studentId = Model.StudentID})">Edit student</a><br>
+    </div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.deps.json
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.json
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.dev.json
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.dll
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csprojResolveAssemblyReference.cache
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csproj.CoreCompileInputs.cache
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfoInputs.cache
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfo.cs
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.pdb
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.dll
+c:\users\евгений\source\repos\Extreme_DI\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.pdb
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.deps.json
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.json
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.pdb
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Database 1\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.pdb
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.deps.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\Debug\netcoreapp2.0\Extreme_DI.pdb
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\Debug\netcoreapp2.0\Extreme_DI.pdb

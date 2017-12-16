@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\MCD\Debug\netcoreapp2.0\Extreme_DI.deps.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\MCD\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\MCD\Debug\netcoreapp2.0\Extreme_DI.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\MCD\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\bin\MCD\Debug\netcoreapp2.0\Extreme_DI.pdb
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\MCD\Debug\netcoreapp2.0\Extreme_DI.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\MCD\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\MCD\Debug\netcoreapp2.0\Extreme_DI.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\MCD\Debug\netcoreapp2.0\Extreme_DI.dll
+C:\Users\Евгений\source\repos\Extreme Migations\Extreme_DI\obj\MCD\Debug\netcoreapp2.0\Extreme_DI.pdb

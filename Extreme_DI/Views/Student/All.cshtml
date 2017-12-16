@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "All";
+}
+
+@model List<StudentModel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Students</title>
+</head>
+<body>
+<div>
+    <h4>Students we have:</h4>
+    <ul>
+        @foreach (var student in Model)
+        {
+            <li><a href=@Url.Action("Profile", "Student", new {studentId = student.StudentID})>@student.Name @student.Surname</a></li>
+        }
+    </ul>
+</div>
+</body>
+</html>
